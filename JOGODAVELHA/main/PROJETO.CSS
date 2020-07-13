@@ -1,0 +1,45 @@
+h1 {
+    font-size: 40px;
+    font-family: 'Press Start 2P';
+}
+
+h4 {
+    text-align: center;
+}
+
+#divdogrid {
+    margin-top: 40px;
+}
+
+#iniciar {
+    border-style: solid;
+    border-color: lightgray;
+    height: 50px;
+    width: 100px;
+}
+
+.rbloc {
+    border-right: white;
+}
+
+.dbloc {
+    border-bottom: white;
+}
+
+.dsbloc {
+    border: none;
+}
+
+button {
+    border-style: dotted;
+    background-color: white;
+    border-top: white;
+    border-left: white;
+    height: 150px;
+    width: 150px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
